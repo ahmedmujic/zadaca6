@@ -1,0 +1,151 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+   font-family: "Verdana", serif;
+}
+.zeforge
+{
+    margin-top: 5px;
+    height: 40px;
+    width: 120px;
+}
+.header
+{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn
+{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    border: 3px solid white;
+    border-width: 0px 0px 3px 0px;
+    padding: 10px;
+    margin: 5px 5px 0px 10px;
+    
+}
+.home
+{
+    margin-left: 20px;
+}
+.search
+{
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #D0D4D7;
+}
+.sr
+{
+    padding: 5px;
+    font-size: 12px;
+    color: rgba(171,175,178,0.5);
+}
+
+.btn:hover
+{
+    border-width: 0px 0px 3px 0px;
+    border-bottom: 3px solid #F4BB15;
+    
+   
+}
+.maincontent
+{
+    display: flex;
+    background: url("https://cdn.pixabay.com/photo/2017/08/01/01/17/sea-2562563_1280.jpg") no-repeat  fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    width: 100%;
+}
+.maincontent
+{
+ display:flex;
+    justify-content: flex-start;
+}
+.tekst1
+{
+    margin: 60px 0px 60px 0px;
+    width: 50%;
+    color: white;
+}
+.tekst1 h2
+{
+    font-size: 33px;
+    font-weight: 500;
+}
+.tekst1 p,h3
+{
+    text-align: 
+    margin: 15px 0px 5px 0px;
+}
+.apply
+{
+    
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: #FFB901;
+}
+.ap
+{
+    padding: 7px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.8);
+}
+.arrow1
+{
+    display: flex;
+    width: 25%;
+    padding-top: 80px;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+}
+.lastcontent
+{
+    display: flex;
+    justify-content: center;
+}
+.tekstovi
+{
+    width: 70%;
+   
+}
+.tek1
+{
+   
+    width: 28%;
+    
+}
+.tekstovi1
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+hr
+{
+    margin: 20px 0px 20px 0px;
+}
+.tek1 img
+{
+    margin: 20px 0px 20px 0px;
+}
+.tek1 .l1
+{
+    margin-top: 20px;
+}
